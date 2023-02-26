@@ -1,0 +1,9 @@
+*.pyc
+logs/*.log
+venv/
+env/
+.idea/
+logs/
+
+#db.sqlite3
+assignment/backend/migrations/
